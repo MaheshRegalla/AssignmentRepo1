@@ -1,5 +1,5 @@
  public class B{
-		intx=10;
+
 		public void abc(){
 
 		System.out.println("HI");
