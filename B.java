@@ -2,7 +2,7 @@
 
 		public void abc(){
 
-		System.out.println("HI");
+		System.out.println("GOOD Morning");
 		
 		System.out.println("EveryOne");
 	}
