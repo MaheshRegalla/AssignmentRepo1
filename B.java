@@ -1,4 +1,4 @@
-class B{
+ public class B{
 
 	int y=20;
 	public void abc(){
